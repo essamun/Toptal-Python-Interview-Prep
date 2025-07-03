@@ -41,10 +41,10 @@ Includes 1–2 timed, mock-style interviews per week — simulating technical in
 ## 👨‍💻 Author
 
 **Essam Afifi**  
-Senior Software Consultant | Python & Data Developer | GIS/Dashboard Expert
-
-[GitHub Profile](https://github.com/essamun)  
-[LinkedIn](https://linkedin.com/in/your-link) *(optional)*
-
+Canadian Data & AI Consultant | Senior Software Engineer | GIS & Dashboard Expert
+🌍 Fluent in English, French, Arabic | 20+ Years Experience
+GitHub Profile
+🌍 LinkedIn: Essam Afifi
+📫 esstoronto@gmail.com
 ---
 
